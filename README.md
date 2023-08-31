@@ -1,9 +1,5 @@
 # Banknote Forgery Detection
 
-## Project Overview
-
-This project aims to utilize machine learning, particularly K-means clustering, to automate the detection of counterfeit banknotes. By employing data-driven methods, this project enhances both the efficiency and reliability of forgery detection, compared to traditional manual methods.
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -11,6 +7,10 @@ This project aims to utilize machine learning, particularly K-means clustering, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+
+## Project Overview
+
+This project aims to utilize machine learning, particularly K-means clustering, to automate the detection of counterfeit banknotes. By employing data-driven methods, this project enhances both the efficiency and reliability of forgery detection compared to traditional manual methods.
 
 ## Data Description
 
@@ -33,4 +33,4 @@ jupyter notebook kmeans.ipynb
 Open kmeans.ipynb in a Jupyter Notebook environment and run all cells. For further customization, you can modify the parameters for K-means clustering as needed.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you want to change.
