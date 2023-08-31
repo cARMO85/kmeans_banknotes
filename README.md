@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Description](#data-description)
-- [Report for Non-Data Science Audience](#report)
+- [Report for Non-Data Science Audience](#report-for-non-data-science-audience)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -18,7 +18,7 @@ This project aims to utilize machine learning, particularly K-means clustering, 
 The dataset comprises various features extracted from images of genuine and counterfeit banknotes. These features include texture, dimensions, and other specific characteristics that distinguish genuine banknotes from forgeries.
 
 ## Report for Non-Data Science Audience
-For stakeholders and individuals without a data science background, a comprehensive report has been prepared. You can access it [here](https://drive.google.com/file/d/1iVeePoFZ7KYMp9crsXs-j1yEyR7UESio/view?usp=sharing) .
+A comprehensive report has been prepared for stakeholders and individuals without a data science background. You can access it [here](https://drive.google.com/file/d/1iVeePoFZ7KYMp9crsXs-j1yEyR7UESio/view?usp=sharing).
 
 ## Installation
 
