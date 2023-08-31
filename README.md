@@ -4,6 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Description](#data-description)
+- [Report for Non-Data Science Audience](#report)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
