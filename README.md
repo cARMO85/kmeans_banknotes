@@ -11,7 +11,6 @@ This project aims to utilize machine learning, particularly K-means clustering, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Data Description
 
